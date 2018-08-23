@@ -1,0 +1,18 @@
+.navbar-brand{
+  height: 30;
+  width: 30;
+  padding-left: 0;
+}
+
+.navbar{
+  background-color: gray!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color:black!important;
+}
+
+#navb{
+  background-color: red!important;
+  color:black!important;
+}
